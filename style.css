@@ -1,0 +1,7 @@
+body { margin: 0; padding: 2rem 1.25rem; background: #322620; color: #f2dbb6; font: 16px/1.6 -apple-system, system-ui, sans-serif; }
+main { max-width: 38rem; margin: 0 auto; }
+h1 { color: #edb350; }
+h2 { margin-top: 2rem; font-size: 1.1rem; }
+a { color: #a1a966; }
+.icon { width: 96px; height: 96px; border-radius: 22px; image-rendering: pixelated; }
+footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #5c6444; color: #cca274; font-size: .875rem; }
